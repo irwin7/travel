@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'noto-serif';
+    src: url('../fonts/NotoSerifTC-Black-Dingbats.woff2') format('woff2'),
+        url('../fonts/NotoSerifTC-Black-Dingbats.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'noto-serif';
+    src: url('../fonts/NotoSerifTC-Bold-Dingbats.woff2') format('woff2'),
+        url('../fonts/NotoSerifTC-Bold-Dingbats.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'noto-serif';
+    src: url('../fonts/NotoSerifTC-SemiBold-Dingbats.woff2') format('woff2'),
+        url('../fonts/NotoSerifTC-SemiBold-Dingbats.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'noto-serif';
+    src: url('../fonts/NotoSerifTC-Medium-Dingbats.woff2') format('woff2'),
+        url('../fonts/NotoSerifTC-Medium-Dingbats.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'noto-serif';
+    src: url('../fonts/NotoSerifTC-Regular-Dingbats.woff2') format('woff2'),
+        url('../fonts/NotoSerifTC-Regular-Dingbats.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
